@@ -1,11 +1,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Writeup Hackthebox"
+  - title: "Writeups"
     url: /year-archive/
-  - title: "Categorias"
+  - title: "Buscador"
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
-  - title: "About"
+  - title: "Sobre Mí"
     url: /about/
+  - title: "Contacto"
+    url: /contact/
+
