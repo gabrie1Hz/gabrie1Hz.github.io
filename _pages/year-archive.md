@@ -1,6 +1,6 @@
 ---
 title: "Writeup Hackthebox"
 permalink: /year-archive/
-layout: posts
+layout: Writeup Hackthebox
 author_profile: true
 ---
