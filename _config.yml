@@ -12,7 +12,7 @@ name                     : "P1r4t3h00k"
 description              : "Posts about security, CTFs, and networking"
 url                      : "https://p1r4t3h00k.io"
 baseurl                  : 
-repository               : "slemire/slemire.github.io"
+repository               : "p1r4t3h00k/p1r4t3h00k.github.io"
 logo                     : "/assets/images/masthead.png"
 breadcrumbs              : true
 words_per_minute         : 200
