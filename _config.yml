@@ -1,23 +1,22 @@
-# Welcome to Jekyll! Config optimized for cybersecurity and CTF content
-
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "haxor"
 
 # Site Settings
-locale                   : "en-MX"
+locale                   : "en-US"
 title                    : "p1r4t3h00k.io"
 title_separator          : "-"
 name                     : "P1r4t3h00k"
 description              : "Posts about security, CTFs, and networking"
-url                      : "https://p1r4t3h00k.io"
-baseurl                  : 
+url                      : "https://p1r4t3h00k.io"  # Usa tu URL personalizada aquí si está configurada correctamente
+baseurl                  : ""                      # Deja vacío si es repositorio raíz, o "/nombre-repo" si es repositorio de proyecto
 repository               : "p1r4t3h00k/p1r4t3h00k.github.io"
 logo                     : "/assets/images/masthead.png"
 breadcrumbs              : true
 words_per_minute         : 200
 comments:
   provider               : false
+
 
 # SEO and Social Sharing
 social:
